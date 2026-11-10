@@ -1,6 +1,6 @@
 // Preencha somente com o número oficial confirmado, no formato 55 + DDD + número.
 const whatsappNumber = '';
-const whatsappMessage = 'Olá! Gostaria de agendar uma consulta médica domiciliar de R$ 750 com o Dr. Matheus. Meu familiar recebeu alta hospitalar e gostaria de verificar a disponibilidade para atendimento.';
+const whatsappMessage = 'Olá! Gostaria de agendar uma consulta médica domiciliar de R$ 600 com o Dr. Matheus. Meu familiar recebeu alta hospitalar e gostaria de verificar a disponibilidade para atendimento.';
 const booking = document.querySelector('#booking');
 let bookingTrigger;
 document.querySelectorAll('[data-book]').forEach(button => {
